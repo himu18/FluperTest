@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FluperTest</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="product_store_address">Product Store Address</string>
+    <string name="product_store_name">Product Store Name</string>
+    <string name="product_color">Product Color</string>
+    <string name="product_image">Product Image</string>
+    <string name="actual_price">Actual Price</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_description">Product Description</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="regular_price">Regular Price</string>
+    <string name="sale_price">Sale Price</string>
+    <string name="colors">Colors</string>
+    <string name="stores">Stores</string>
+</resources>
